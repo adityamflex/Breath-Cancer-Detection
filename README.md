@@ -1,4 +1,4 @@
-# Breath-Cancer-Detection
+# Breast-Cancer-Detection
 # 🩺 Breast Cancer Detection using Machine Learning
 
 This project is a machine learning-based solution for **early detection of breast cancer** using a dataset of clinical and diagnostic features. Built with **Python**, **Pandas**, and **scikit-learn**, it helps predict whether a tumor is **benign** or **malignant**.
